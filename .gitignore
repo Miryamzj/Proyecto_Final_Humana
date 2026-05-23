@@ -1,0 +1,6 @@
+*.vcf
+*.vcf.gz
+*.gff
+*.gff.gz
+*.RData
+overlaps*.csv
